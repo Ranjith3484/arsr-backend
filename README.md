@@ -9,4 +9,4 @@ and then run
 
 ### `npm start`
 
-App will runs in the development mode and access thorugh [http://localhost:4001](http://localhost:4001) r.
+App will runs in the development mode and access thorugh [http://localhost:4001](http://localhost:4001).
